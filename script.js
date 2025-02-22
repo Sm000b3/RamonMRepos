@@ -1,0 +1,1 @@
+"A script in Java"
